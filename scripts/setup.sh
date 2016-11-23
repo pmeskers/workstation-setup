@@ -26,8 +26,6 @@ source ${MY_DIR}/git-aliases.sh
 source ${MY_DIR}/java.sh
 source ${MY_DIR}/ruby.sh
 source ${MY_DIR}/node.sh
-source ${MY_DIR}/node-packages.sh
-source ${MY_DIR}/cloud.sh
 source ${MY_DIR}/applications-common.sh
 
 if [ "${SETUP_TYPE}" == "labs-engineer" ]
